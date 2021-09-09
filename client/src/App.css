@@ -1,0 +1,12 @@
+:root {
+  --light-pink : #CD8987;
+  --light-blue : #40798C;
+  --pink-blue-complimentary : #210124;
+}
+
+*{
+  font-family: 'JetBrains Mono','Roboto Condensed', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
